@@ -9,4 +9,4 @@ https://www.kaggle.com/koryakinp/fingers
 
 Python 3.X
 
-Python Packages are mention in th requirement.txt
+Python Packages are mention in th [requirement.txt](https://github.com/chauhanmahavir/Hand-Fingers-Detection-CNN-Tensorflow-Keras/blob/master/requirement.txt)
