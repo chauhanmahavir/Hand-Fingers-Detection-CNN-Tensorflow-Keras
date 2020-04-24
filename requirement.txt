@@ -1,4 +1,4 @@
-pip install tensorflow-gpu==1.13.1
-pip install numpy==1.16.0
-pip install open-cv==3.4.2
-pip install matplotlib==3.0.3
+tensorflow-gpu==1.13.1
+numpy==1.16.0
+open-cv==3.4.2
+matplotlib==3.0.3
