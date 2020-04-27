@@ -3,7 +3,7 @@ Hand Finger Detection Using Tensorflow Keras
 
 ## Dataset
 
-https://www.kaggle.com/koryakinp/fingers
+* https://www.kaggle.com/koryakinp/fingers
 
 ## Requirements
 
